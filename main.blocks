@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="qc.v.tsbCT$gxP[CZG(x" x="0" y="0"/><block type="device_forever" id="ZrW*cIw=G{Z^0E3R?Bhx" x="196" y="-1"><statement name="HANDLER"><block type="basic_show_icon" id="%nRYv?yn)U$6p!X6T,iG"><field name="i">IconNames.Duck</field></block></statement></block></xml>
